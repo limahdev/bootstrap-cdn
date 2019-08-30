@@ -1,1 +1,1 @@
-# bootstrap-cdn-assignment
+This assignment was created with codes that were copied from the bootstrap website. The project was started with the bootstrap 4 boilerplate template and then using modifications to make the content creative. An external css stylesheet was added to accomodate some of the modifications.
