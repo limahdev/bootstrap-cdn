@@ -1,0 +1,19 @@
+h2 {
+    background-color:purple;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+h3 {
+    color: blueviolet;   
+}
+.img-fluid {
+    display: inline-block;
+    width: 100%;
+}
+.jumbotron {
+    background-color: fuchsia;
+}
+.nav-link {
+    color: purple;
+}
